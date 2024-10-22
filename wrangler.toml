@@ -1,0 +1,5 @@
+name = "NeoGPT"
+type = "javascript"  # Or "webpack" depending on your project setup
+
+[build]
+compatibility_flags = ["nodejs_compat"]
